@@ -1,0 +1,336 @@
+{"text": "iPhone 11 Apple Branco, 64GB Desbloqueado - MHDC3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 22, "COR"], [24, 28, "MEMORIA"]]}
+{"text": "iPhone 13 Apple 128GB Azul Desbloqueado - MLPK3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "MEMORIA"], [22, 26, "COR"]]}
+{"text": "iPhone 13 Apple (PRODUCT) Red 256GB Desbloqueado - MLQ93BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [17, 24, "REFERENCIA"], [26, 29, "COR"], [30, 35, "MEMORIA"]]}
+{"text": "iPhone 13 Apple (PRODUCT) Red 512GB Desbloqueado - MLQF3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [17, 24, "REFERENCIA"], [26, 29, "COR"], [30, 35, "MEMORIA"]]}
+{"text": "iPhone 12 64GB Apple Roxo Desbloqueado - MJNM3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 14, "MEMORIA"], [15, 20, "MARCA"], [21, 25, "COR"]]}
+{"text": "iPhone 12 64GB Apple Branco Desbloqueado - MGJ63BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 14, "MEMORIA"], [15, 20, "MARCA"], [21, 27, "COR"]]}
+{"text": "iPhone 12 64GB Apple Preto Desbloqueado - MGJ53BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 14, "MEMORIA"], [15, 20, "MARCA"], [21, 26, "COR"]]}
+{"text": "iPhone 12 Pro Apple Azul Pacífico 256GB Desbloqueado - MGMT3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 24, "COR"], [34, 39, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Apple Dourado 256GB Desbloqueado - MGMR3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 27, "COR"], [28, 33, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Apple Grafite 128GB Desbloqueado - MGMK3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [28, 33, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Max Apple Grafite 512GB Desbloqueado - MGDG3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [32, 37, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Max Apple Azul Pacífico 256GB Desbloqueado - MGDF3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 28, "COR"], [38, 43, "MEMORIA"]]}
+{"text": "iPhone 12 Apple Azul 64GB Desbloqueado - MGJ83BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 20, "COR"], [21, 25, "MEMORIA"]]}
+{"text": "iPhone SE (3ª geração) Apple 64GB Estelar - MMXG3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [23, 28, "MARCA"], [29, 33, "MEMORIA"]]}
+{"text": "iPhone 13 Apple Blue 512GB Desbloqueado-MLQG3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [21, 26, "MEMORIA"]]}
+{"text": "iPhone 13 Apple Pink 512GB Desbloqueado-MLQE3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 20, "COR"], [21, 26, "MEMORIA"]]}
+{"text": "iPhone 13 Apple Starlight 512GB Desbloqueado - MLQD3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 25, "COR"], [26, 31, "MEMORIA"]]}
+{"text": "iPhone 11 Apple Preto, 64GB Desbloqueado - MHDA3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "COR"], [23, 27, "MEMORIA"]]}
+{"text": "iPhone 13 Apple 128GB (PRODUCT) Red Desbloqueado - MLPJ3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "MEMORIA"], [32, 35, "COR"]]}
+{"text": "iPhone SE (3ª geração) Apple 64GB (PRODUCT) Red - MMXH3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [23, 28, "MARCA"], [29, 33, "MEMORIA"], [44, 47, "COR"]]}
+{"text": "iPhone SE (3ª geração) Apple 64GB Meia-noite - MMXF3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [23, 28, "MARCA"], [29, 33, "MEMORIA"]]}
+{"text": "iPhone 12 64GB Apple Azul Desbloqueado - MGJ83BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 14, "MEMORIA"], [15, 20, "MARCA"], [21, 25, "COR"]]}
+{"text": "iPhone 12 Apple Roxo 128GB Desbloqueado - MJNP3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 20, "COR"], [21, 26, "MEMORIA"]]}
+{"text": "iPhone 12 Mini Apple Vermelho 64GB Desbloqueado - MGE03BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [21, 29, "COR"], [30, 34, "MEMORIA"]]}
+{"text": "iPhone 11 Apple Branco, 64GB Desbloqueado - MHDC3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 22, "COR"], [24, 28, "MEMORIA"]]}
+{"text": "iPhone 13 Apple 128GB Azul Desbloqueado - MLPK3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "MEMORIA"], [22, 26, "COR"]]}
+{"text": "iPhone 13 Apple (PRODUCT) Red 256GB Desbloqueado - MLQ93BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [17, 24, "REFERENCIA"], [26, 29, "COR"], [30, 35, "MEMORIA"]]}
+{"text": "iPhone 13 Apple (PRODUCT) Red 512GB Desbloqueado - MLQF3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [17, 24, "REFERENCIA"], [26, 29, "COR"], [30, 35, "MEMORIA"]]}
+{"text": "iPhone 12 64GB Apple Roxo Desbloqueado - MJNM3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 14, "MEMORIA"], [15, 20, "MARCA"], [21, 25, "COR"]]}
+{"text": "iPhone 12 64GB Apple Branco Desbloqueado - MGJ63BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 14, "MEMORIA"], [15, 20, "MARCA"], [21, 27, "COR"]]}
+{"text": "iPhone 12 64GB Apple Preto Desbloqueado - MGJ53BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 14, "MEMORIA"], [15, 20, "MARCA"], [21, 26, "COR"]]}
+{"text": "iPhone 12 Pro Apple Azul Pacífico 256GB Desbloqueado - MGMT3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 24, "COR"], [34, 39, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Apple Dourado 256GB Desbloqueado - MGMR3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 27, "COR"], [28, 33, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Apple Grafite 128GB Desbloqueado - MGMK3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [28, 33, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Max Apple Grafite 512GB Desbloqueado - MGDG3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [32, 37, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Max Apple Azul Pacífico 256GB Desbloqueado - MGDF3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 28, "COR"], [38, 43, "MEMORIA"]]}
+{"text": "iPhone 12 Apple Azul 64GB Desbloqueado - MGJ83BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 20, "COR"], [21, 25, "MEMORIA"]]}
+{"text": "iPhone SE (3ª geração) Apple 64GB Estelar - MMXG3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [23, 28, "MARCA"], [29, 33, "MEMORIA"]]}
+{"text": "iPhone 13 Apple Blue 512GB Desbloqueado-MLQG3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [21, 26, "MEMORIA"]]}
+{"text": "iPhone 13 Apple Pink 512GB Desbloqueado-MLQE3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 20, "COR"], [21, 26, "MEMORIA"]]}
+{"text": "iPhone 13 Apple Starlight 512GB Desbloqueado - MLQD3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 25, "COR"], [26, 31, "MEMORIA"]]}
+{"text": "iPhone 11 Apple Preto, 64GB Desbloqueado - MHDA3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "COR"], [23, 27, "MEMORIA"]]}
+{"text": "iPhone 13 Apple 128GB (PRODUCT) Red Desbloqueado - MLPJ3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "MEMORIA"], [32, 35, "COR"]]}
+{"text": "iPhone SE (3ª geração) Apple 64GB (PRODUCT) Red - MMXH3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [23, 28, "MARCA"], [29, 33, "MEMORIA"], [44, 47, "COR"]]}
+{"text": "iPhone SE (3ª geração) Apple 64GB Meia-noite - MMXF3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [23, 28, "MARCA"], [29, 33, "MEMORIA"]]}
+{"text": "iPhone 12 64GB Apple Azul Desbloqueado - MGJ83BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 14, "MEMORIA"], [15, 20, "MARCA"], [21, 25, "COR"]]}
+{"text": "iPhone 12 Apple Roxo 128GB Desbloqueado - MJNP3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 20, "COR"], [21, 26, "MEMORIA"]]}
+{"text": "iPhone 12 Mini Apple Vermelho 64GB Desbloqueado - MGE03BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [21, 29, "COR"], [30, 34, "MEMORIA"]]}
+{"text": "iPhone 12 Mini Apple Azul 64GB Desbloqueado - MGE13BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [21, 25, "COR"], [26, 30, "MEMORIA"]]}
+{"text": "iPhone 12 Mini Apple Preto 64GB Desbloqueado - MGDX3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [21, 26, "COR"], [27, 31, "MEMORIA"]]}
+{"text": "Apple iPhone 14 Pro 128GB Dourado", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 19, "MODELO"], [20, 25, "MEMORIA"], [26, 33, "COR"]]}
+{"text": "Apple iPhone 14 128GB Roxo", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 15, "MODELO"], [16, 21, "MEMORIA"], [22, 26, "COR"]]}
+{"text": "Apple iPhone 14 128GB Azul", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 15, "MODELO"], [16, 21, "MEMORIA"], [22, 26, "COR"]]}
+{"text": "Apple iPhone 11 128GB Preto", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 15, "MODELO"], [16, 21, "MEMORIA"], [22, 27, "COR"]]}
+{"text": "Apple iPhone 14 128GB (PRODUCT)RED", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 15, "MODELO"], [16, 21, "MEMORIA"], [31, 34, "COR"]]}
+{"text": "Apple iPhone 14 128GB Meia-noite", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 15, "MODELO"], [16, 21, "MEMORIA"]]}
+{"text": "Apple iPhone 14 Plus 256GB Azul", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 15, "MODELO"], [21, 26, "MEMORIA"], [27, 31, "COR"]]}
+{"text": "Apple iPhone 14 Plus 128GB Azul", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 15, "MODELO"], [21, 26, "MEMORIA"], [27, 31, "COR"]]}
+{"text": "Apple iPhone 14 Plus 128GB Estelar", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 15, "MODELO"], [21, 26, "MEMORIA"]]}
+{"text": "Apple iPhone 14 Pro Max 128GB Roxo-profundo", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 23, "MODELO"], [24, 29, "MEMORIA"], [30, 34, "COR"]]}
+{"text": "Apple iPhone 14 Pro Max 128GB Preto-espacial", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 23, "MODELO"], [24, 29, "MEMORIA"], [30, 35, "COR"]]}
+{"text": "Apple iPhone 14 Pro 512GB Preto-espacial", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 19, "MODELO"], [20, 25, "MEMORIA"], [26, 31, "COR"]]}
+{"text": "Apple iPhone 14 Plus 256GB Meia-noite", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 15, "MODELO"], [21, 26, "MEMORIA"]]}
+{"text": "Apple iPhone 14 Pro Max 256GB Roxo-profundo", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 23, "MODELO"], [24, 29, "MEMORIA"], [30, 34, "COR"]]}
+{"text": "Apple iPhone 14 Pro 128GB Preto-espacial", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 19, "MODELO"], [20, 25, "MEMORIA"], [26, 31, "COR"]]}
+{"text": "Apple iPhone 14 Pro Max 256GB Dourado", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 23, "MODELO"], [24, 29, "MEMORIA"], [30, 37, "COR"]]}
+{"text": "Apple iPhone 14 Plus 128GB Meia-noite", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 15, "MODELO"], [21, 26, "MEMORIA"]]}
+{"text": "Apple iPhone 14 Pro 256GB Roxo-profundo", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 19, "MODELO"], [20, 25, "MEMORIA"], [26, 30, "COR"]]}
+{"text": "Apple iPhone 14 Pro 256GB Preto-espacial", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 19, "MODELO"], [20, 25, "MEMORIA"], [26, 31, "COR"]]}
+{"text": "Apple iPhone 14 Pro 128GB Roxo-profundo", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 19, "MODELO"], [20, 25, "MEMORIA"], [26, 30, "COR"]]}
+{"text": "Apple iPhone 14 Pro Max 256GB Preto-espacial", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 23, "MODELO"], [24, 29, "MEMORIA"], [30, 35, "COR"]]}
+{"text": "Apple iPhone 14 Pro Max 128GB Dourado", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 23, "MODELO"], [24, 29, "MEMORIA"], [30, 37, "COR"]]}
+{"text": "Apple iPhone 14 Pro Max 512GB Roxo-profundo", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 23, "MODELO"], [24, 29, "MEMORIA"], [30, 34, "COR"]]}
+{"text": "Apple iPhone 14 Plus 128GB (PRODUCT)RED", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 15, "MODELO"], [21, 26, "MEMORIA"], [36, 39, "COR"]]}
+{"text": "Apple iPhone 14 Pro Max 128GB Prateado", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 23, "MODELO"], [24, 29, "MEMORIA"], [30, 38, "COR"]]}
+{"text": "Iphone 6s 128 Gb Dourado - Apple", "entities": [[0, 6, "CATEGORIA"], [17, 24, "COR"], [27, 32, "MARCA"]]}
+{"text": "Iphone 7 Plus 128gb Preto Mate Seminovo - Apple", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [14, 19, "MEMORIA"], [20, 25, "COR"], [42, 47, "MARCA"]]}
+{"text": "iPhone 13 Apple 128GB Rosa Desbloqueado - MLPH3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "MEMORIA"]]}
+{"text": "iPhone 13 Pro Max Apple 128GB Verde Alpino Desbloqueado - MNCY3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 29, "MEMORIA"], [30, 35, "COR"]]}
+{"text": "iPhone 13 Apple 128GB Estelar  Desbloqueado - MLPG3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "MEMORIA"]]}
+{"text": "iPhone 13 Pro Apple 512GB Prata Desbloqueado - MLVN3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 25, "MEMORIA"]]}
+{"text": "iPhone 13 Pro Max Apple Graphite 256GB Desbloqueado - MLLA3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [33, 38, "MEMORIA"]]}
+{"text": "iPhone 13 Pro Max Apple Sierra Blue 128GB Desbloqueado - MLL93BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [36, 41, "MEMORIA"]]}
+{"text": "iPhone 13 Pro Apple Silver 128GB Desbloqueado - MLVA3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [27, 32, "MEMORIA"]]}
+{"text": "iPhone 13 Mini Apple Blue 128GB Desbloqueado - MLK43BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [26, 31, "MEMORIA"]]}
+{"text": "iPhone 13 Mini Apple (PRODUCT) Red 128GB Desbloqueado - MLK33BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [22, 29, "REFERENCIA"], [31, 34, "COR"], [35, 40, "MEMORIA"]]}
+{"text": "iPhone 13 Mini Apple Midnight 128GB Desbloqueado - MLK03BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [21, 29, "COR"], [30, 35, "MEMORIA"]]}
+{"text": "iPhone 13 Apple Midnight 512GB Desbloqueado-MLQC3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 24, "COR"], [25, 30, "MEMORIA"]]}
+{"text": "iPhone 13 Apple Pink 256GB Desbloqueado - MLQ83BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 20, "COR"], [21, 26, "MEMORIA"]]}
+{"text": "iPhone 13 Apple Starlight 256GB Desbloqueado - MLQ73BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 25, "COR"], [26, 31, "MEMORIA"]]}
+{"text": "iPhone 12 128GB Apple Roxo Desbloqueado - MJNP3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MEMORIA"], [16, 21, "MARCA"], [22, 26, "COR"]]}
+{"text": "iPhone 12 64GB Apple Vermelho Desbloqueado - MGJ73BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 14, "MEMORIA"], [15, 20, "MARCA"], [21, 29, "COR"]]}
+{"text": "iPhone XR Apple Vermelho, 128GB Desbloqueado - MH7N3BR/A", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MARCA"], [16, 24, "COR"], [26, 31, "MEMORIA"]]}
+{"text": "iPhone 12 Mini Apple Preto, 128GB + Carregador Portatil GT Sem Fio + Carregador Sem Fio Qi GT Ultra Slim", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [21, 26, "COR"], [28, 33, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Apple Dourado 512GB Desbloqueado - MGMW3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 27, "COR"], [28, 33, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Apple Grafite 512GB Desbloqueado - MGMU3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [28, 33, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Apple Azul Pacífico 128GB Desbloqueado - MGMN3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 24, "COR"], [34, 39, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Max Apple Azul Pacífico 128GB Desbloqueado - MGDA3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 28, "COR"], [38, 43, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Max Apple Prateado 128GB Desbloqueado - MGD83BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 32, "COR"], [33, 38, "MEMORIA"]]}
+{"text": "iPhone 12 Mini Apple Vermelho 128GB Desbloqueado - MGE53BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [21, 29, "COR"], [30, 35, "MEMORIA"]]}
+{"text": "iPhone 12 Apple Verde 256GB Desbloqueado - MGJL3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "COR"], [22, 27, "MEMORIA"]]}
+{"text": "iPhone 12 Apple Azul 256GB Desbloqueado - MGJK3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 20, "COR"], [21, 26, "MEMORIA"]]}
+{"text": "iPhone 12 Apple Vermelho 256GB Desbloqueado - MGJJ3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 24, "COR"], [25, 30, "MEMORIA"]]}
+{"text": "iPhone 12 Apple Azul 128GB Desbloqueado - MGJE3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 20, "COR"], [21, 26, "MEMORIA"]]}
+{"text": "iPhone 12 Apple Verde 128GB Desbloqueado - MGJF3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "COR"], [22, 27, "MEMORIA"]]}
+{"text": "iPhone 12 Apple Preto 128GB Desbloqueado - MGJA3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "COR"], [22, 27, "MEMORIA"]]}
+{"text": "iPhone 12 Apple Verde 64GB Desbloqueado - MGJ93BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "COR"], [22, 26, "MEMORIA"]]}
+{"text": "iPhone 12 Mini Apple Verde 256GB Desbloqueado - MGEE3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [21, 26, "COR"], [27, 32, "MEMORIA"]]}
+{"text": "iPhone 12 Mini Apple Azul 256GB Desbloqueado - MGED3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [21, 25, "COR"], [26, 31, "MEMORIA"]]}
+{"text": "iPhone 11 Apple Preto, 64GB Desbloqueado - MHDA3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "COR"], [23, 27, "MEMORIA"]]}
+{"text": "iPhone 11 Apple Branco, 128GB Desbloqueado - MHDJ3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 22, "COR"], [24, 29, "MEMORIA"]]}
+{"text": "iPhone SE Apple Vermelho 128GB Desbloqueado - MHGV3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 24, "COR"], [25, 30, "MEMORIA"]]}
+{"text": "iPhone SE Apple Preto 256GB Desbloqueado - MHGW3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "COR"], [22, 27, "MEMORIA"]]}
+{"text": "iPhone XR Apple Vermelho, 64GB Desbloqueado - MRY62BZ/A", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MARCA"], [16, 24, "COR"], [26, 30, "MEMORIA"]]}
+{"text": "iPhone 11 Apple Branco, 128GB Desbloqueado - MWM22BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 22, "COR"], [24, 29, "MEMORIA"]]}
+{"text": "iPhone 11 Apple Vermelho, 64GB Desbloqueado - MWLV2BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 24, "COR"], [26, 30, "MEMORIA"]]}
+{"text": "iPhone 11 Apple Branco, 64GB Desbloqueado - MWLU2BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 22, "COR"], [24, 28, "MEMORIA"]]}
+{"text": "iPhone 11 Apple Verde, 128GB Desbloqueado - MWM62BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "COR"], [23, 28, "MEMORIA"]]}
+{"text": "iPhone 8 Apple Cinza Espacial, 64GB MQ6G2BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [9, 14, "MARCA"], [31, 35, "MEMORIA"]]}
+{"text": "iPhone SE Apple Preto 64GB Desbloqueado - MX9R2BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "COR"], [22, 26, "MEMORIA"]]}
+{"text": "iPhone 11 Pro Max Apple Dourado 64GB Desbloqueado - MWHG2BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 31, "COR"], [32, 36, "MEMORIA"]]}
+{"text": "iPhone 11 Pro Apple Cinza Espacial, 256GB Desbloqueado - MWC72BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [36, 41, "MEMORIA"]]}
+{"text": "iPhone XS Max 256 GB Tela 6,5", "entities": [[0, 6, "CATEGORIA"], [26, 27, "MODELO"]]}
+{"text": "iPhone XR Apple Preto 128GB Desbloqueado - MRY92BR/A", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MARCA"], [16, 21, "COR"], [22, 27, "MEMORIA"]]}
+{"text": "iPhone 11 Pro Apple 64 GB Gold - Câmera Tripla 12MP Tela 5,8", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [26, 30, "COR"]]}
+{"text": "iPhone 11 Pro Apple Cinza Espacial 64GB Desbloqueado - MWC22BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [35, 39, "MEMORIA"]]}
+{"text": "iPhone 11 Apple 128GB Preto - Câmera Dupla 12 MP + Selfie 12MP Tela 6,1", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "MEMORIA"], [22, 27, "COR"]]}
+{"text": "iPhone 11 64 GB Tela 6,1", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"]]}
+{"text": "iPhone 11 128 GB Tela 6,1", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"]]}
+{"text": "iPhone 11 Pro Max Apple Cinza Espacial 64GB Desbloqueado - MWHD2BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [39, 43, "MEMORIA"]]}
+{"text": "iPhone 11 64 GB Tela 6,1", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"]]}
+{"text": "iPhone 11 128 GB Tela 6,1", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"]]}
+{"text": "iPhone XS 64GB Tela 5.8", "entities": [[0, 6, "CATEGORIA"], [10, 14, "MEMORIA"], [20, 21, "MODELO"]]}
+{"text": "iPhone XS Max 64 GB Tela 6,5", "entities": [[0, 6, "CATEGORIA"], [14, 16, "MODELO"]]}
+{"text": "iPhone XS Max 64 GB Tela 6,5", "entities": [[0, 6, "CATEGORIA"], [14, 16, "MODELO"]]}
+{"text": "iPhone 8 64GB Apple Gold e Película de Vidro Goldentec Glass 9H-34779", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [9, 13, "MEMORIA"], [20, 24, "COR"]]}
+{"text": "iPhone XR Apple 64GB MRY52BZ/A - White", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MARCA"], [16, 20, "MEMORIA"]]}
+{"text": "iPhone 8 256GB Gold e Película de Vidro Goldentec Glass 9H-34778", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [9, 14, "MEMORIA"], [15, 19, "COR"]]}
+{"text": "iPhone 8 Plus 64 GB Gold e Película de Vidro Goldentec Glass 9H-34783", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [20, 24, "COR"]]}
+{"text": "iPhone 11 Pro Max Apple Cinza Espacial 256GB Desbloqueado - MWHJ2BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [39, 44, "MEMORIA"]]}
+{"text": "iPhone 11 Pro Max Apple Dourado 256GB Desbloqueado - MWHL2BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 31, "COR"], [32, 37, "MEMORIA"]]}
+{"text": "iPhone 8 Plus 64 GB Gold", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [20, 24, "COR"]]}
+{"text": "iPhone 8 64GB Apple Space Gray", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [9, 13, "MEMORIA"], [14, 19, "MARCA"]]}
+{"text": "iPhone 7 Apple Gold 32 GB - MN902BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [9, 14, "MARCA"], [15, 19, "COR"], [28, 37, "REFERENCIA"]]}
+{"text": "iPhone 13 Pro Apple 128GB Verde Alpino Desbloqueado - MNE23BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 25, "MEMORIA"], [26, 31, "COR"]]}
+{"text": "iPhone 13 Mini Apple 128GB Verde Desbloqueado - MNFF3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [21, 26, "MEMORIA"], [27, 32, "COR"]]}
+{"text": "iPhone 13 Apple 128GB Meia Noite Desbloqueado - MLPF3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "MEMORIA"]]}
+{"text": "iPhone 13 Pro Max Apple 256GB Azul Sierra Desbloqueado - MLLE3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 29, "MEMORIA"], [30, 34, "COR"]]}
+{"text": "iPhone 13 Pro Max Apple 256GB Dourado Desbloqueado - MLLD3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 29, "MEMORIA"], [30, 37, "COR"]]}
+{"text": "iPhone 13 Pro Max Apple 256GB Prateado Desbloqueado - MLLC3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 29, "MEMORIA"], [30, 38, "COR"]]}
+{"text": "iPhone 13 Pro Apple 256GB Prata Desbloqueado - MLVF3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 25, "MEMORIA"]]}
+{"text": "iPhone 13 Pro Apple 512GB Dourado Desbloqueado - MLVQ3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 25, "MEMORIA"], [26, 33, "COR"]]}
+{"text": "iPhone 13 Pro Apple 512GB Azul Sierra Desbloqueado - MLVU3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 25, "MEMORIA"], [26, 30, "COR"]]}
+{"text": "iPhone 13 Pro Apple 512GB Grafite Desbloqueado - MLVH3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 25, "MEMORIA"]]}
+{"text": "iPhone 13 Mini Apple 128GB Pink Desbloqueado - MLK23BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [21, 26, "MEMORIA"], [27, 31, "COR"]]}
+{"text": "iPhone 13 Mini Apple 128GB Estelar Desbloqueado - MLK13BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [21, 26, "MEMORIA"]]}
+{"text": "iPhone 13 PRO MAX Apple 128GB Prata Desbloqueado - MLL73BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 29, "MEMORIA"]]}
+{"text": "iPhone 13 Pro Apple Gold 256GB Desbloqueado - MLVK3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 24, "COR"], [25, 30, "MEMORIA"]]}
+{"text": "iPhone 13 Pro Apple Azul Sierra 256GB Desbloqueado - MLVP3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 24, "COR"], [32, 37, "MEMORIA"]]}
+{"text": "iPhone 13 Pro Max Apple Graphite 128GB Desbloqueado - MLL63BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [33, 38, "MEMORIA"]]}
+{"text": "iPhone 13 Pro Apple Graphite 128GB Desbloqueado - MLV93BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [29, 34, "MEMORIA"]]}
+{"text": "iPhone 13 Apple (PRODUCT) Red 128GB Desbloqueado - MLPJ3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [17, 24, "REFERENCIA"], [26, 29, "COR"], [30, 35, "MEMORIA"]]}
+{"text": "iPhone 13 Apple Midnight 128GB Desbloqueado - MLPF3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 24, "COR"], [25, 30, "MEMORIA"]]}
+{"text": "iPhone 13 Apple Midnight 256GB Desbloqueado - MLQ63BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 24, "COR"], [25, 30, "MEMORIA"]]}
+{"text": "iPhone 13 Apple Starlight 128GB Desbloqueado - MLPG3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 25, "COR"], [26, 31, "MEMORIA"]]}
+{"text": "iPhone 11 Apple com 64GB, Tela Retina HD de 6,1”, iOS 13, Dupla Câmera Traseira de 12 MP, Resistente à Água e Bateria de Longa Duração - Preto", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [20, 24, "MEMORIA"], [137, 142, "COR"]]}
+{"text": "iPhone 12 128GB Apple Vermelho Desbloqueado - MGJD3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MEMORIA"], [16, 21, "MARCA"], [22, 30, "COR"]]}
+{"text": "iPhone 12 128GB Apple Preto Desbloqueado - MGJA3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MEMORIA"], [16, 21, "MARCA"], [22, 27, "COR"]]}
+{"text": "iPhone 12 Mini Apple Preto, 64GB + Carregador Portatil GT Sem Fio + Carregador Sem Fio Qi GT Ultra Slim", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [21, 26, "COR"], [28, 32, "MEMORIA"]]}
+{"text": "iPhone 12 Apple Preto, 64GB + Carregador Portatil GT Sem Fio + Carregador Sem Fio Qi GT Ultra Slim", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [16, 21, "COR"], [23, 27, "MEMORIA"]]}
+{"text": "iPhone XR Apple Branco, 128GB Desbloqueado - MH7M3BR/A", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MARCA"], [16, 22, "COR"], [24, 29, "MEMORIA"]]}
+{"text": "iPhone 11 Apple Preto, 64GB + Case Goldentec Transparente + Carregador Portatil GT Sem Fio + Carregador Sem Fio Qi GT Ultra Slim", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [16, 21, "COR"], [23, 27, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Max Apple Grafite 128GB Desbloqueado - MGD73BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [32, 37, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Apple Prateado 256GB Desbloqueado - MGMQ3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 28, "COR"], [29, 34, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Apple Grafite 256GB Desbloqueado - MGMP3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [28, 33, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Apple Dourado 128GB Desbloqueado - MGMM3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 27, "COR"], [28, 33, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Apple Prateado 128GB Desbloqueado - MGML3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 28, "COR"], [29, 34, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Max Apple Dourado 512GB Desbloqueado - MGDK3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 31, "COR"], [32, 37, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Max Apple Prateado 512GB Desbloqueado - MGDH3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 32, "COR"], [33, 38, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Max Apple Dourado 256GB Desbloqueado - MGDE3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 31, "COR"], [32, 37, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Max Apple Prateado 256GB Desbloqueado - MGDD3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 32, "COR"], [33, 38, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Max Apple Dourado 128GB Desbloqueado - MGD93BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 31, "COR"], [32, 37, "MEMORIA"]]}
+{"text": "iPhone 12 Apple Preto 256GB Desbloqueado - MGJG3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "COR"], [22, 27, "MEMORIA"]]}
+{"text": "iPhone 12 Apple Vermelho 128GB Desbloqueado - MGJD3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 24, "COR"], [25, 30, "MEMORIA"]]}
+{"text": "iPhone 12 Apple Vermelho 64GB Desbloqueado - MGJ73BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 24, "COR"], [25, 29, "MEMORIA"]]}
+{"text": "iPhone 12 Apple Preto 64GB Desbloqueado - MGJ53BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "COR"], [22, 26, "MEMORIA"]]}
+{"text": "iPhone 12 Mini Apple Branco 256GB Desbloqueado - MGEA3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [21, 27, "COR"], [28, 33, "MEMORIA"]]}
+{"text": "iPhone 12 Mini Apple Azul 128GB Desbloqueado - MGE63BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [21, 25, "COR"], [26, 31, "MEMORIA"]]}
+{"text": "iPhone 11 Apple Preto, 128GB Desbloqueado - MHDH3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "COR"], [23, 28, "MEMORIA"]]}
+{"text": "iPhone 12 Mini Apple Preto 128GB Desbloqueado - MGE33BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [21, 26, "COR"], [27, 32, "MEMORIA"]]}
+{"text": "iPhone 12 Mini Apple Branco 64GB Desbloqueado - MGDY3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [21, 27, "COR"], [28, 32, "MEMORIA"]]}
+{"text": "iPhone SE Apple Branco 256GB Desbloqueado - MHGX3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 22, "COR"], [23, 28, "MEMORIA"]]}
+{"text": "iPhone SE Apple Branco 128GB Desbloqueado - MHGU3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 22, "COR"], [23, 28, "MEMORIA"]]}
+{"text": "iPhone 11 Apple Verde, 256GB Desbloqueado - MWMD2BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "COR"], [23, 28, "MEMORIA"]]}
+{"text": "iPhone XR Apple Preto, 64GB Desbloqueado - MRY42BZ/A", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MARCA"], [16, 21, "COR"], [23, 27, "MEMORIA"]]}
+{"text": "iPhone XR Apple Preto 128GB Desbloqueado - MRY92BR/A e Base de Carregamento 4 em 1 Goldentec", "entities": [[0, 6, "CATEGORIA"], [16, 21, "COR"], [22, 27, "MEMORIA"], [76, 77, "MODELO"]]}
+{"text": "iPhone XR 128 GB Tela 6,1", "entities": [[0, 6, "CATEGORIA"], [22, 23, "MODELO"]]}
+{"text": "iPhone 11 Apple Branco, 256GB Desbloqueado - MWM82BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 22, "COR"], [24, 29, "MEMORIA"]]}
+{"text": "iPhone 11 Apple 256GB Preto - Câmera Dupla 12MP + Selfie 12MP Tela 6,1", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "MEMORIA"], [22, 27, "COR"]]}
+{"text": "iPhone 11 Apple Vermelho, 128GB Desbloqueado - MWM32BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 24, "COR"], [26, 31, "MEMORIA"]]}
+{"text": "iPhone 11 Apple Vermelho, 256GB Desbloqueado - MWM92BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 24, "COR"], [26, 31, "MEMORIA"]]}
+{"text": "iPhone 11 Apple Verde, 64GB Desbloqueado - MWLY2BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "COR"], [23, 27, "MEMORIA"]]}
+{"text": "iPhone 11 Apple Roxo, 64GB Desbloqueado - MWLX2BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 20, "COR"], [22, 26, "MEMORIA"]]}
+{"text": "iPhone 11 Apple Preto, 64GB Desbloqueado - MWLT2BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "COR"], [23, 27, "MEMORIA"]]}
+{"text": "iPhone 11 Apple Roxo, 128GB Desbloqueado - MWM52BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 20, "COR"], [22, 27, "MEMORIA"]]}
+{"text": "iPhone 8 Apple 64GB MQ6J2BR/A Gold", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [9, 14, "MARCA"], [15, 19, "MEMORIA"], [30, 34, "COR"]]}
+{"text": "iPhone XR 256GB Tela 6.1", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MEMORIA"], [21, 22, "MODELO"]]}
+{"text": "iPhone 11 Pro Max Apple Silver, 256GB - MWHK2BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [32, 37, "MEMORIA"]]}
+{"text": "iPhone XS Max 256 GB Tela 6,5", "entities": [[0, 6, "CATEGORIA"], [26, 27, "MODELO"]]}
+{"text": "iPhone 11 Apple 64GB Verde - Câmera Dupla 12MP + Selfie 12MP Tela 6,1", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [16, 20, "MEMORIA"], [21, 26, "COR"]]}
+{"text": "iPhone 11 256 GB Tela 6,1", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"]]}
+{"text": "iPhone 11 Pro Apple Cinza Espacial 512GB Desbloqueado - MWCD2BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [35, 40, "MEMORIA"]]}
+{"text": "iPhone 11 Pro Apple Verde Meia Noite 256GB Desbloqueado - MWCC2BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 25, "COR"], [37, 42, "MEMORIA"]]}
+{"text": "iPhone 11 64 GB Tela 6,1", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"]]}
+{"text": "iPhone 11 Pro Apple Dourado 64GB Desbloqueado - MWC52BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 27, "COR"], [28, 32, "MEMORIA"]]}
+{"text": "iPhone XS 64GB Tela 5.8", "entities": [[0, 6, "CATEGORIA"], [10, 14, "MEMORIA"], [20, 21, "MODELO"]]}
+{"text": "iPhone XR Apple Vermelho 64GB Desbloqueado - MRY62BR/A", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MARCA"], [16, 24, "COR"], [25, 29, "MEMORIA"]]}
+{"text": "iPhone XR Apple Vermelho 128GB - MRYE2BR/A", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MARCA"], [16, 24, "COR"], [25, 30, "MEMORIA"]]}
+{"text": "iPhone 8 Apple (PRODUCT) RED Special Edition", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [9, 14, "MARCA"], [16, 23, "REFERENCIA"], [25, 28, "COR"]]}
+{"text": "iPhone 8 Apple Cinza Espacial, 256GB MQ7C2BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [9, 14, "MARCA"], [31, 36, "MEMORIA"]]}
+{"text": "iPhone 8 Apple Gold, 256GB MQ7E2BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [9, 14, "MARCA"], [15, 19, "COR"], [21, 26, "MEMORIA"]]}
+{"text": "iPhone 11 64 GB Tela 6,1", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"]]}
+{"text": "iPhone X 64 GB Silver", "entities": [[0, 6, "CATEGORIA"], [9, 11, "MODELO"]]}
+{"text": "iPhone 8 Plus 256 GB Space Gray", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"]]}
+{"text": "iPhone 8 256GB Gold", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [9, 14, "MEMORIA"], [15, 19, "COR"]]}
+{"text": "iPhone 6s Apple Gold 32 GB - MN112BR/A", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MARCA"], [16, 20, "COR"], [21, 23, "MODELO"], [29, 38, "REFERENCIA"]]}
+{"text": "iPhone 11 Apple Branco, 128GB Desbloqueado - MHDJ3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 22, "COR"], [24, 29, "MEMORIA"]]}
+{"text": "iPhone 13 Apple 128GB Verde Desbloqueado - MNGK3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "MEMORIA"], [22, 27, "COR"]]}
+{"text": "iPhone 13 Pro Max Apple 512GB Azul Sierra Desbloqueado - MLLJ3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 29, "MEMORIA"], [30, 34, "COR"]]}
+{"text": "iPhone 13 Pro Max Apple 1TB Dourado Desbloqueado - MLLM3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [28, 35, "COR"], [51, 60, "REFERENCIA"]]}
+{"text": "iPhone 13 Pro Max Apple 512GB Graphite Desbloqueado - MLLF3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 29, "MEMORIA"]]}
+{"text": "iPhone 13 Pro Max Apple 512GB Dourado Desbloqueado - MLLH3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 29, "MEMORIA"], [30, 37, "COR"]]}
+{"text": "iPhone 13 Pro Max Apple 1TB Azul Sierra Desbloqueado - MLLN3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [28, 32, "COR"], [55, 64, "REFERENCIA"]]}
+{"text": "iPhone 13 Pro Max Apple 512GB Prateado Desbloqueado - MLLG3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 29, "MEMORIA"], [30, 38, "COR"]]}
+{"text": "iPhone 13 Pro Max Apple Graphite 1T Desbloqueado - MLLK3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [51, 60, "REFERENCIA"]]}
+{"text": "iPhone 13 Pro Max Apple 128GB Dourado Desbloqueado - MLL83BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 29, "MEMORIA"], [30, 37, "COR"]]}
+{"text": "iPhone 13 Mini Apple Blue 256GB Desbloqueado - MLK93BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [26, 31, "MEMORIA"]]}
+{"text": "iPhone 13 Pro Apple 128GB Sierra Blue Desbloqueado - MLVD3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 25, "MEMORIA"]]}
+{"text": "iPhone 13 Mini Apple Midnight 256GB Desbloqueado - MLK53BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [21, 29, "COR"], [30, 35, "MEMORIA"]]}
+{"text": "iPhone 13 Pro Apple 128GB Gold Desbloqueado - MLVC3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 25, "MEMORIA"], [26, 30, "COR"]]}
+{"text": "iPhone 13 Pro Apple Graphite 256GB Desbloqueado - MLVE3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [29, 34, "MEMORIA"]]}
+{"text": "iPhone 13 Apple Pink 128GB Desbloqueado - MLPH3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 20, "COR"], [21, 26, "MEMORIA"]]}
+{"text": "iPhone 13 Apple Blue 256GB Desbloqueado - MLQA3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [21, 26, "MEMORIA"]]}
+{"text": "iPhone 13 Apple Blue 128GB Desbloqueado - MLPK3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [21, 26, "MEMORIA"]]}
+{"text": "iPhone 11 Pro Apple com 64GB, Tela Retina HD de 5,8”, iOS 13, Tripla Câmera Traseira, Resistente à Água e Bateria de Longa Duração - Cinza Espacial", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [24, 28, "MEMORIA"]]}
+{"text": "iPhone SE Apple 64GB, Tela 4,7”, iOS 13, Sensor de Impressão Digital, Câmera iSight 12MP, Wi-Fi, 4G, GPS, Bluetooth e NFC - Preto", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 20, "MEMORIA"], [124, 129, "COR"]]}
+{"text": "iPhone XR Apple 64GB, Tela Retina LCD de 6,1”, iOS 12, Câmera Traseira 12MP Resistente à Água e Reconhecimento Facial Preto", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MARCA"], [16, 20, "MEMORIA"], [41, 42, "MODELO"], [118, 123, "COR"]]}
+{"text": "iPhone 12 128GB Apple Verde Desbloqueado - MGJF3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MEMORIA"], [16, 21, "MARCA"], [22, 27, "COR"]]}
+{"text": "iPhone 12 128GB Apple Azul Desbloqueado - MGJE3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MEMORIA"], [16, 21, "MARCA"], [22, 26, "COR"]]}
+{"text": "iPhone 12 128GB Apple Branco Desbloqueado - MGJC3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MEMORIA"], [16, 21, "MARCA"], [22, 28, "COR"]]}
+{"text": "iPhone 12 64GB Apple Verde Desbloqueado - MGJ93BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 14, "MEMORIA"], [15, 20, "MARCA"], [21, 26, "COR"]]}
+{"text": "iPhone 12 Apple Roxo 64GB Desbloqueado - MJNM3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 20, "COR"], [21, 25, "MEMORIA"]]}
+{"text": "iPhone 12 Apple Preto, 128GB + Carregador Portatil GT Sem Fio + Carregador Sem Fio Qi GT Ultra Slim", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [16, 21, "COR"], [23, 28, "MEMORIA"]]}
+{"text": "iPhone 11 Apple Preto, 128GB + Case Goldentec Transparente + Carregador Portatil GT Sem Fio + Carregador Sem Fio Qi GT Ultra Slim", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [16, 21, "COR"], [23, 28, "MEMORIA"]]}
+{"text": "iPhone XR Apple Vermelho, 64GB Desbloqueado - MH6P3BR/A", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MARCA"], [16, 24, "COR"], [26, 30, "MEMORIA"]]}
+{"text": "iPhone XR Apple Preto, 128GB Desbloqueado - MH7L3BR/A", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MARCA"], [16, 21, "COR"], [23, 28, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Apple Azul Pacífico 512GB Desbloqueado - MGMX3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 24, "COR"], [34, 39, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Apple Prateado 512GB Desbloqueado - MGMV3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 28, "COR"], [29, 34, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Max Apple Azul Pacífico 512GB Desbloqueado - MGDL3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 28, "COR"], [38, 43, "MEMORIA"]]}
+{"text": "iPhone 12 Pro Max Apple Grafite 256GB Desbloqueado - MGDC3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [32, 37, "MEMORIA"]]}
+{"text": "iPhone 12 Apple Branco 256GB Desbloqueado - MGJH3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 22, "COR"], [23, 28, "MEMORIA"]]}
+{"text": "iPhone 12 Apple Branco 128GB Desbloqueado - MGJC3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 22, "COR"], [23, 28, "MEMORIA"]]}
+{"text": "iPhone 12 Apple Branco 64GB Desbloqueado - MGJ63BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 22, "COR"], [23, 27, "MEMORIA"]]}
+{"text": "iPhone 12 Mini Apple Vermelho 256GB Desbloqueado - MGEC3BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [21, 29, "COR"], [30, 35, "MEMORIA"]]}
+{"text": "iPhone 12 Mini Apple Preto 256GB Desbloqueado - MGE93BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [21, 26, "COR"], [27, 32, "MEMORIA"]]}
+{"text": "iPhone 12 Mini Apple Verde 128GB Desbloqueado - MGE73BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [21, 26, "COR"], [27, 32, "MEMORIA"]]}
+{"text": "iPhone 12 Mini Apple Branco 128GB Desbloqueado - MGE43BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [21, 27, "COR"], [28, 33, "MEMORIA"]]}
+{"text": "iPhone 12 Mini Apple Verde 64GB Desbloqueado - MGE23BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 14, "MODELO"], [15, 20, "MARCA"], [21, 26, "COR"], [27, 31, "MEMORIA"]]}
+{"text": "iPhone SE Apple Preto 64GB Desbloqueado - MHGP3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "COR"], [22, 26, "MEMORIA"]]}
+{"text": "iPhone SE Apple Vermelho 256GB Desbloqueado - MHGY3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 24, "COR"], [25, 30, "MEMORIA"]]}
+{"text": "iPhone SE Apple Preto 128GB Desbloqueado - MHGT3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "COR"], [22, 27, "MEMORIA"]]}
+{"text": "iPhone SE Apple Vermelho 64GB Desbloqueado - MHGR3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 24, "COR"], [25, 29, "MEMORIA"]]}
+{"text": "iPhone SE Apple Branco 64GB Desbloqueado - MHGQ3BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 22, "COR"], [23, 27, "MEMORIA"]]}
+{"text": "iPhone 11 Apple Amarelo, 128GB Desbloqueado - MWM42BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [25, 30, "MEMORIA"]]}
+{"text": "iPhone 8 Plus Apple Cinza Espacial 64GB Desbloqueado - MQ8L2BR/A e Base de Carregamento 4 em 1 Goldentec", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [35, 39, "MEMORIA"]]}
+{"text": "iPhone XR Apple Preto 64GB Desbloqueado - MRY42BR/A e Base de Carregamento 4 em 1 Goldentec", "entities": [[0, 6, "CATEGORIA"], [16, 21, "COR"], [22, 26, "MEMORIA"], [75, 76, "MODELO"]]}
+{"text": "iPhone XR Apple Preto, 128GB Desbloqueado - MRY92BR/A", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MARCA"], [16, 21, "COR"], [23, 28, "MEMORIA"]]}
+{"text": "iPhone 11 Apple Preto, 128GB Desbloqueado - MWM02BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "COR"], [23, 28, "MEMORIA"]]}
+{"text": "iPhone XR Apple Branco 64GB Desbloqueado - MRY52BR/A", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MARCA"], [16, 22, "COR"], [23, 27, "MEMORIA"]]}
+{"text": "iPhone 8 Plus Apple Dourado 64GB Desbloqueado - MQ8N2BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [14, 19, "MARCA"], [20, 27, "COR"], [28, 32, "MEMORIA"]]}
+{"text": "iPhone 8 Plus Apple Cinza Espacial 64GB Desbloqueado - MQ8L2BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [14, 19, "MARCA"], [35, 39, "MEMORIA"]]}
+{"text": "iPhone 8 Apple 64 GB Silver", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [9, 14, "MARCA"]]}
+{"text": "iPhone SE Apple Branco, 128GB Desbloqueado - MXD12BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 22, "COR"], [24, 29, "MEMORIA"]]}
+{"text": "iPhone SE Apple Preto 128GB Desbloqueado - MXD02BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "COR"], [22, 27, "MEMORIA"]]}
+{"text": "iPhone SE Apple Branco, 64GB Desbloqueado - MX9T2BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 22, "COR"], [24, 28, "MEMORIA"]]}
+{"text": "iPhone 8 Apple (PRODUCT) RED™ 64GB Special Edition", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [9, 14, "MARCA"], [16, 23, "REFERENCIA"], [25, 28, "COR"], [30, 34, "MEMORIA"]]}
+{"text": "iPhone XR 256GB Tela 6.1", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MEMORIA"], [21, 22, "MODELO"]]}
+{"text": "iPhone 11 Pro Apple 512GB Midnight Green - Câmera Tripla 12MP Tela 5,8", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [20, 25, "MEMORIA"], [26, 34, "COR"]]}
+{"text": "iPhone 11 Apple 256GB Black - Câmera Dupla 12MP + Selfie 12MP Tela 6,1", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [16, 21, "MEMORIA"]]}
+{"text": "iPhone 11 Apple 128GB Preto - Câmera Dupla 12 MP + Selfie 12MP Tela 6,1", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [16, 21, "MEMORIA"], [22, 27, "COR"]]}
+{"text": "iPhone 11 Pro Max Apple 64 GB Gold - Câmera Tripla 12MP Tela 6,5", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [30, 34, "COR"]]}
+{"text": "iPhone 11 64 GB Tela 6,1", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"]]}
+{"text": "iPhone 11 Pro Max Apple Prata 64GB Desbloqueado - MWHF2BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [30, 34, "MEMORIA"]]}
+{"text": "iPhone 11 256 GB Tela 6,1", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"]]}
+{"text": "iPhone 11 128 GB Tela 6,1", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"]]}
+{"text": "iPhone 11 Pro Apple Verde Meia Noite 64GB Desbloqueado - MWC62BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 25, "COR"], [37, 41, "MEMORIA"]]}
+{"text": "iPhone 11 128 GB Tela 6,1", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"]]}
+{"text": "iPhone 11 Pro Apple Prata 256GB Desbloqueado - MWC82BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [26, 31, "MEMORIA"]]}
+{"text": "iPhone 11 Pro Max Apple Verde Meia Noite 256GB Desbloqueado - MWHM2BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 29, "COR"], [41, 46, "MEMORIA"]]}
+{"text": "iPhone XS Apple Cinza Espacial, 256GB MT9H2BZ/A", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MARCA"], [32, 37, "MEMORIA"]]}
+{"text": "iPhone 11 Pro Max Apple Verde Meia Noite 64GB Desbloqueado - MWHH2BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [18, 23, "MARCA"], [24, 29, "COR"], [41, 45, "MEMORIA"]]}
+{"text": "iPhone 11 Pro Apple Verde meia-noite 512GB Desbloqueado - MWCG2BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 25, "COR"], [37, 42, "MEMORIA"]]}
+{"text": "iPhone 11 Apple Preto 256GB Desbloqueado - MWM72BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 9, "MODELO"], [10, 15, "MARCA"], [16, 21, "COR"], [22, 27, "MEMORIA"]]}
+{"text": "iPhone XS 64GB Tela 5.8", "entities": [[0, 6, "CATEGORIA"], [10, 14, "MEMORIA"], [20, 21, "MODELO"]]}
+{"text": "iPhone XS 256GB Tela 6.5", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MEMORIA"], [21, 22, "MODELO"]]}
+{"text": "iPhone XS Max 64 GB Tela 6,5", "entities": [[0, 6, "CATEGORIA"], [14, 16, "MODELO"]]}
+{"text": "iPhone 7 Apple Gold 32 GB e Película de Vidro Goldentec Glass 9H-34773", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [15, 19, "COR"]]}
+{"text": "iPhone XR Apple Branco 128GB Desbloqueado - MRYD2BR/A", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MARCA"], [16, 22, "COR"], [23, 28, "MEMORIA"]]}
+{"text": "iPhone XR Apple Preto 64GB Desbloqueado - MRY42BR/A", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MARCA"], [16, 21, "COR"], [22, 26, "MEMORIA"]]}
+{"text": "iPhone 11 Pro Max Apple 256GB Gold - Câmera Tripla 12MP Tela 6,5", "entities": [[0, 6, "CATEGORIA"], [7, 17, "MODELO"], [24, 29, "MEMORIA"], [30, 34, "COR"]]}
+{"text": "iPhone 11 Pro Apple 256 GB Gold - Câmera Tripla 12MP Tela 5,8 IOS 13 e Base de Carregamento 4 em 1 Goldentec", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [27, 31, "COR"]]}
+{"text": "iPhone 8 Plus 256 GB Space Gray e Película de Vidro Goldentec Glass 9H-34782", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"]]}
+{"text": "iPhone 11 Pro Apple Dourado 256GB Desbloqueado - MWC92BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 13, "MODELO"], [14, 19, "MARCA"], [20, 27, "COR"], [28, 33, "MEMORIA"]]}
+{"text": "iPhone X 256 GB Space Gray", "entities": [[0, 6, "CATEGORIA"]]}
+{"text": "iPhone 8 Plus 64 GB Silver", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"]]}
+{"text": "iPhone 8 Plus 64 GB Space Gray", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"]]}
+{"text": "iPhone 8 256GB Space Gray", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [9, 14, "MEMORIA"]]}
+{"text": "iPhone 8 64GB Apple Gold", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [9, 13, "MEMORIA"], [14, 19, "MARCA"], [20, 24, "COR"]]}
+{"text": "iPhone 8 64GB Apple Silver", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [9, 13, "MEMORIA"], [14, 19, "MARCA"]]}
+{"text": "iPhone 7 Plus Apple Gold 32 GB, chip A10 Fusion, Tela Retina HD de 5,5", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [14, 19, "MARCA"], [20, 24, "COR"]]}
+{"text": "iPhone 6s Apple Rose Gold 32 GB,iOS 11,3D Touch - MN122BR/A", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MARCA"], [21, 25, "COR"], [26, 28, "MODELO"], [50, 59, "REFERENCIA"]]}
+{"text": "iPhone 6s Apple 32GB Silver Tela 4.7", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MARCA"], [16, 20, "MEMORIA"], [33, 34, "MODELO"]]}
+{"text": "iPhone 6s Apple 32GB Space Gray Tela 4.7", "entities": [[0, 6, "CATEGORIA"], [10, 15, "MARCA"], [16, 20, "MEMORIA"], [37, 38, "MODELO"]]}
+{"text": "iPhone 7 Apple Rose Gold 32 GB - MN912BR/A", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [9, 14, "MARCA"], [20, 24, "COR"], [33, 42, "REFERENCIA"]]}
+{"text": "iPhone 7 Apple 32GB Preto Matte MN8X2BZ/A", "entities": [[0, 6, "CATEGORIA"], [7, 8, "MODELO"], [9, 14, "MARCA"], [15, 19, "MEMORIA"], [20, 25, "COR"]]}
+{"text": "Apple iPhone 14 Pro 256GB Dourado", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 19, "MODELO"], [20, 25, "MEMORIA"], [26, 33, "COR"]]}
+{"text": "Apple iPhone 14 Plus 512GB Roxo", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 15, "MODELO"], [21, 26, "MEMORIA"], [27, 31, "COR"]]}
+{"text": "Apple iPhone 14 Plus 512GB Estelar", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 15, "MODELO"], [21, 26, "MEMORIA"]]}
+{"text": "Apple iPhone 14 128GB Vermelho", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 15, "MODELO"], [16, 21, "MEMORIA"], [22, 30, "COR"]]}
+{"text": "Apple iPhone 14 128GB Roxo", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 15, "MODELO"], [16, 21, "MEMORIA"], [22, 26, "COR"]]}
+{"text": "Apple iPhone 14 Plus 256GB Estelar", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 15, "MODELO"], [21, 26, "MEMORIA"]]}
+{"text": "Apple iPhone 14 Pro 128GB Prateado", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 19, "MODELO"], [20, 25, "MEMORIA"], [26, 34, "COR"]]}
+{"text": "Apple iPhone 14 Plus 512GB Azul", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 15, "MODELO"], [21, 26, "MEMORIA"], [27, 31, "COR"]]}
+{"text": "Apple iPhone 14 128GB Estelar", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 15, "MODELO"], [16, 21, "MEMORIA"]]}
+{"text": "Película De Vidro Para Iphone 7 Transparente Geonav", "entities": [[23, 29, "CATEGORIA"], [30, 31, "MODELO"], [45, 51, "MARCA"]]}
+{"text": "Apple iPhone 14 128GB Azul", "entities": [[0, 5, "MARCA"], [6, 12, "CATEGORIA"], [13, 15, "MODELO"], [16, 21, "MEMORIA"], [22, 26, "COR"]]}
